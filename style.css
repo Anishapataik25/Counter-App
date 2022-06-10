@@ -1,0 +1,32 @@
+body{background-color:rgb(8, 37, 41)
+}
+.container{
+    background-color: rgb(56, 91, 92);
+    padding: 30px;
+    margin:80px auto;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+
+.btn{
+    background-color:rgb(8, 37, 41);
+    color:white;
+    padding: 12px 30px;
+    margin:10px 0;
+    border-radius:8px;
+    font-size: 16px;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+#counter{
+    font-size: 90px;
+    margin:0;
+    
+}
+
+.text-center{
+    text-align: center;
+}
